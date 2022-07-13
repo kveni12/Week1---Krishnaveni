@@ -3,7 +3,7 @@ Welcome! This is the repository for all lectures, assignments, and datasets for 
 
 Datasets Used in this Repo:
 
-PIMA Indians diabetes dataset: https://www.kaggle.com/uciml/pima-indians-diabetes-database/version/1   
+Pima Indians diabetes dataset: https://www.kaggle.com/uciml/pima-indians-diabetes-database/version/1   
 Depression Dataset from UFHealth Biostatistics Open Learning Textbook: http://bolt.mph.ufl.edu/2012/08/02/learn-by-doing-exploring-a-dataset/   
 
 ## Notebooks
